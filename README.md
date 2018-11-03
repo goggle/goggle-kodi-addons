@@ -13,3 +13,8 @@ TeleBärn | Watch the videos from the TeleBärn video library. | <img src="https
 AZ Medien | Script to access the media library of TeleZüri, Tele M1 and TeleBärn | <img src="https://raw.githubusercontent.com/goggle/script.module.azmedien/master/resources/icon.png" width="256"> | :x: | :x: | [:heavy_check_mark:](https://github.com/goggle/script.module.azmedien)
 
 **Disclaimer:** All these addons are unofficial and in no way assosciated with the content providers.
+
+## Support
+To report bugs use the issue tracker in the development repository on github. For feature requests you can either use the issue tracker or the forum thread. Code contributions are also welcome, just open a pull request and we will discuss it.
+
+If you would like to make a donation to the author of these addons, you can use this [Paypal link](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZXAFRHTZGRARS) or the Bitcoin address `14d2as82kQ3mRoCSyrnHNoDi8PkFvxMMgP`.
